@@ -1,0 +1,18 @@
+# Java-specific ignores
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+
+# IDE specific
+.vscode/
+.idea/
+out/
+target/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
